@@ -356,7 +356,7 @@ button:focus {
 #mu-hero-default {
 	display: inline;
 	float: left;
-	padding: 10px;
+	padding: 10px 0 10px;
 	width: 100%;
 }
 
