@@ -25,9 +25,14 @@ Version: 1.0
 */
 
 
-/*--------------------*/
-/* BASIC TYPOGRAPHY */
-/*--------------------*/
+kofie {
+	
+	background-image: ('http://static-images.jumbo.com/product_images/30808PAK-1_360x360.png');
+	width: 360px;
+	height: 360px;
+	
+}
+
 
 body,
 html {
